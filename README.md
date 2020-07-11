@@ -6,7 +6,7 @@
 ## Hi 👋, 
 I'm Ahmed Sayed, I'm a software engineer who is passionate about web and Microsoft technologies.
 
-### Check out this page letter for getting an awesome view
+### Check out this page later for getting an awesome view
 
 <!--
 **asayedio/asayedio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
