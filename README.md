@@ -1,4 +1,12 @@
-### Hi there 👋
+# Ahmed Sayed  
+[![Linkedin Badge](https://img.shields.io/badge/-asayedio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asayedio/)](https://www.linkedin.com/in/asayedio/) 
+[![Twitter Badge](https://img.shields.io/badge/-asayedio-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/asayedio)](https://twitter.com/asayedio) 
+[![Gmail Badge](https://img.shields.io/badge/-ahmedsayed.9191@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ahmedsayed.9191@gmail.com)](mailto:ahmedsayed.9191@gmail.com)
+
+## Hi 👋, 
+I'm Ahmed Sayed, I'm a software engineer who is passionate about web and Microsoft technologies.
+
+### Check out this page letter for getting an awesome view
 
 <!--
 **asayedio/asayedio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
