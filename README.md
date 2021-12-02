@@ -6,11 +6,11 @@
   <img src="https://raw.githubusercontent.com/asayedio/asayedio/master/header.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am 24 years old 👨‍💻 **Full-Stack Developer** who is exploring dotnet , reactJs And angularJs . 😉
+I am a **Full-stack Engineer** who is exploring Dotnet, ReactJs And AngularJs .
 
-Working 💼 **@AmCham Egypt** as a Software Developer.
+Working @**AmCham Egypt** as a Software Developer.
 
-🤓 I have a keen interest in 🤝 collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **Design Thinking facilitator** and **Creative Technologist** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
+I have a keen interest in collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **Design Thinking facilitator** and **Creative Technologist** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
  💬 Ask me about Full Stack Development and any Tech-related stuff.
 
@@ -44,7 +44,7 @@ Working 💼 **@AmCham Egypt** as a Software Developer.
 <br/>
 ---
 
-Let's connect 👨‍💻 and forge the future together. 😁✌ 
+Let's connect and forge the future together.
 
 **Check the Repositories and don't forget to give a star.** 👇
 
