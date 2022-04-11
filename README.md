@@ -30,12 +30,29 @@ I have a keen interest in collaborating with others and empowering others to bui
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asayedio&show_icons=true&hide_border=true)
-
 
 ---
+### Contributions
+<div align="center">
+  <a href="https://git.io/streak-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=asayedio&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  
+</div>
+  
+---
+### Stats
+  
+ <div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" /
+  </a>
+ </div>
+  <br/><br/>
+ <div align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" />
+   </a>
+</div>
 
 
 ### You can find in me in the web 🌍
