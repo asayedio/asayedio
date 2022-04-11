@@ -1,12 +1,6 @@
 ### Hey Ahmed here 👋
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/asayedio/asayedio/master/header.jpg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
-I am a **Full-stack Engineer** who is exploring Dotnet, ReactJs And AngularJs .
+A **Full-stack Engineer** who is exploring Dotnet, ReactJs And AngularJs .
 
 Working @**AmCham Egypt** as a Software Developer.
 
