@@ -35,19 +35,9 @@ I have a keen interest in collaborating with others and empowering others to bui
   
 ---
 ### Stats
-  
- <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" /
-  </a>
- </div>
-  <br/><br/>
- <div align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" />
-   </a>
-</div>
-
+ 
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" alt="Ahmed's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" /></a> |
+| ------------- | ------------- |
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="asayedio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
