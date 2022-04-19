@@ -45,7 +45,7 @@ I have a keen interest in collaborating with others and empowering others to bui
 <br/>
 ---
 
-Let's connect and forge the future together..
+Let's connect and forge the future together.
 
 **Check the Repositories and don't forget to give a star.** 👇
 
