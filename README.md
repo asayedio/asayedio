@@ -37,24 +37,20 @@ I have a keen interest in collaborating with others and empowering others to bui
 ### Stats
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayedio&label=Profile%20views&color=0e75b6&style=flat" alt="asayedio" /> </p>
  
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" alt="Ahmed's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" /></a> |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" alt="Ahmed's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" /> |
 | ------------- | ------------- |
  
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/asayedio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asayedio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asayedio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asayedio" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6180775" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6180775" height="30" width="40" /></a>
-<a href="https://medium.com/@asayedio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asayedio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAccB2Mzcb0SMX_-qz52-xw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucaccb2mzcb0smx_-qz52-xw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asayedio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asayedio" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asayedio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asayedio" height="30" width="40" /></a>
+<a href="https://dev.to/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asayedio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asayedio" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6180775" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6180775" height="30" width="40" /></a>
+<a href="https://medium.com/@asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asayedio" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAccB2Mzcb0SMX_-qz52-xw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucaccb2mzcb0smx_-qz52-xw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asayedio" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asayedio" height="30" width="40" /></a>
 </p>
 
  <p>Let's connect and forge the future together...</p>
 
-
 **Check the Repositories and don't forget to give them a star** 👇
-
-[twitter]: https://twitter.com/asayedio
-[linkedin]: https://www.linkedin.com/in/asayedio/
