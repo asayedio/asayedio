@@ -1,8 +1,8 @@
 ### Hey Ahmed here 👋
 
-A **Full-stack Engineer** who is exploring Dotnet, ReactJs And AngularJs .
+A **Full-stack Engineer** who is exploring Dotnet, And Angular.
 
-Working @**AmCham Egypt** as a software developer.
+Working @**WebCreek** as a Software Engineer ||.
 
 I have a keen interest in collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **Design Thinking facilitator** and **Creative Technologist** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
@@ -37,7 +37,7 @@ I have a keen interest in collaborating with others and empowering others to bui
 ### Stats
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayedio&label=Profile%20views&color=0e75b6&style=flat" alt="asayedio" /> </p>
  
- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" alt="Ahmed's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" /> |
+ | <img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" alt="Ahmed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" /> |
 | ------------- | ------------- |
  
  <h3 align="left">Connect with me:</h3>
