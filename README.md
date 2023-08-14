@@ -17,8 +17,8 @@ I have a keen interest in collaborating with others and empowering others to bui
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-AngularJs-4DB33D?style=flat&logo=angular&logoColor=fff&color=a6120d">
+<img src="https://img.shields.io/badge/-Angular%202.0-4DB33D?style=flat&logo=angular&logoColor=fff&color=a6120d">
 <img src="https://img.shields.io/badge/-C%23-659ad3?style=flat&logo=C-SHARP&logoColor=ffffff"> 
 <img src="https://img.shields.io/badge/-DotnetCore-659ad3?style=flat&logo=Dotnet&logoColor=ffffff"> 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
