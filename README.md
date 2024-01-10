@@ -1,55 +1,58 @@
-### Hey Ahmed here 👋
+# Hey there! 👋 I'm Ahmed Sayed, a Backend Software Engineer.
 
-A **Full-stack Engineer** who is exploring Dotnet, And Angular.
+## About Me
+I'm a results-driven Software Engineer with five years of hands-on experience, specializing in C#, SQL, ASP.NET Core, and API development. I thrive on innovation, consistently designing and implementing robust backend solutions. My expertise in leveraging C# and ASP.NET Core ensures high performance and scalability in project delivery.
 
-Working @**WebCreek** as a Software Engineer ||.
+## Current Position
+🚀 Currently, I'm a Backend Software Engineer at Integral Solutions in Muscat, Oman. I'm actively involved in the eJustice project, spearheading the development of a Case Management System (CMS) using technologies like .Net Core, EF Core, Serilog, Mapster, Clean Architecture, DDD, Hangfire, and SQL.
 
-I have a keen interest in collaborating with others and empowering others to build digital solutions that solve real-world 🌍 problems. I'm also a **Design Thinking facilitator** and **Creative Technologist** who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
+## Recent Achievements
+🌐 Contributed to the eJustice project, optimizing case and complaint processing for the Ministry of Justice and Legal Affairs in Oman.
 
- 💬 Ask me about Full Stack Development and any Tech-related stuff.
+## Professional Experience
+### WebCreek (Oct 2022 - May 2023)
+🌐 Architected and developed Softbase 4.0, a SAAS web application supporting a multitenant approach. Tech stack included .Net Core 6.0, Entity Framework 6.0, ASP.NET Zero, Angular 12.0, and more.
 
----
+### The American Chamber of Commerce in Egypt (Sep 2019 - Oct 2022)
+🌐 Pioneered a paperless employment fair, achieving a 99.99% uptime and migrating 75,000+ CVs to digital formats.
 
+### Allied Consulting for SAP Services (May 2019 - Sep 2019)
+🌐 Worked as a Backend Developer, developing .NET APIs for the P & G factory in Hyderabad, and provided a dashboard deployed on the IoT platform ThingWorx.
 
-### Tech & Tools Preference
+## Side Projects
+### Platforms Commands
+🌐 Developed a scalable and modular microservices-based application using .NET Core and Kubernetes. Utilized containerization and orchestration for enhanced scalability and maintainability.
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-AngularJs-4DB33D?style=flat&logo=angular&logoColor=fff&color=a6120d">
-<img src="https://img.shields.io/badge/-Angular%202.0-4DB33D?style=flat&logo=angular&logoColor=fff&color=a6120d">
-<img src="https://img.shields.io/badge/-C%23-659ad3?style=flat&logo=C-SHARP&logoColor=ffffff"> 
-<img src="https://img.shields.io/badge/-DotnetCore-659ad3?style=flat&logo=Dotnet&logoColor=ffffff"> 
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+## Technical Proficiency
+💻 Expertise in C#, SQL, ASP.NET Core, and API development. Proficient in technologies such as .Net Core, Entity Framework, Microservices, Docker, Kubernetes, and more.
 
----
-### Contributions
+## Education
+🎓 B.Sc. in Computer Science, graduating with a Very Good grade. The graduation project, SMART DELIVERY, received an Excellent rating.
+
+## Certificates and Awards
+🏆 Data Scientist Mastery Award (May 2018)\
+🏆 Cloud Application Developer Mastery Award (Jan 2018)
+
+## Goals
+🚀 Excited about my journey as a Backend Software Engineer, and I'm passionate about building impactful solutions through technology. Let's connect and collaborate on innovative projects!
+
+## Contributions
 <div align="center">
   <a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=asayedio&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   
 </div>
   
----
-### Stats
+## Stats
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=asayedio&label=Profile%20views&color=0e75b6&style=flat" alt="asayedio" /> </p>
  
  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=asayedio&theme=github-dark-blue&hide_border=true&count_private=true&show_icons=true" alt="Ahmed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asayedio&theme=github-dark-blue&hide_border=true&hide=CMake,C&layout=compact" /> |
 | ------------- | ------------- |
- 
- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="asayedio" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asayedio" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6180775" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6180775" height="30" width="40" /></a>
-<a href="https://medium.com/@asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asayedio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCAccB2Mzcb0SMX_-qz52-xw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucaccb2mzcb0smx_-qz52-xw" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asayedio" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asayedio" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asayedio" height="30" width="40" /></a>
-</p>
+
+## Contact
+📧 Email: [asayedio@hotmail.com](mailto:asayedio@hotmail.com)\
+📱 LinkedIn: [Check it Out](https://www.linkedin.com/in/asayedio/)\
+🌐 GitHub: [Check it Out](https://github.com/asayedio)
 
  <p>Let's connect and forge the future together...</p>
 
