@@ -1,3 +1,4 @@
+<base target="_blank">
 # Hey there! 👋 I'm Ahmed Sayed, a Backend Software Engineer.
 
 ## About Me
