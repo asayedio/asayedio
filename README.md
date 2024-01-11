@@ -1,5 +1,4 @@
-<base target="_blank">
-# Hey there! 👋 I'm Ahmed Sayed, a Backend Software Engineer.
+## Hey there! 👋 I'm Ahmed Sayed, a Backend Software Engineer.
 
 ## About Me
 I'm a results-driven Software Engineer with five years of hands-on experience, specializing in C#, SQL, ASP.NET Core, and API development. I thrive on innovation, consistently designing and implementing robust backend solutions. My expertise in leveraging C# and ASP.NET Core ensures high performance and scalability in project delivery.
